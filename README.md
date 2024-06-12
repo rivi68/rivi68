@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rivi68
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning JAVA
+- 👋 Hi, I’m @Rivan Kumar
+- 👀 I’m interested in Automation
+- 🌱 I’m currently learning Mobile Automation
 - 💞️ I’m looking to collaborate on PROGRAMMING CODES
 - 📫 How to reach me BY EMAIL
 
